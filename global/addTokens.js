@@ -36,7 +36,7 @@ async function addCurrencies() {
     });
 
     if (response.status == 200) {
-        alert(`${tokens} tokens and 300 XP added to your account!`);
+        alert(`${tokens} nigger`);
     } else {
         alert('An error occured.');
     };
